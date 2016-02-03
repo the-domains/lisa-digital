@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lisa.Digital]]></title>
         <description><![CDATA[Lisa.Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lisa-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 06:38:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 06:40:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lisa-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf44fa47-6552-4706-9cd0-ed02bac3833a.jpg">]]></description>
+            <link>https://thegrid.ai/lisa-digital/0e85e88c-27c4-4976-9da5-b8bd1f1d1d7c/index.html</link>
+            <guid isPermaLink="false">0e85e88c-27c4-4976-9da5-b8bd1f1d1d7c</guid>
+            <pubDate>Wed, 03 Feb 2016 06:40:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66149158-fb0e-48e9-8fec-4e95535fff29.jpg">]]></description>
-            <link>undefined4e1646d7-f1ef-4d8a-be7c-d8c59b9f19d8/index.html</link>
+            <link>https://thegrid.ai/lisa-digital/4e1646d7-f1ef-4d8a-be7c-d8c59b9f19d8/index.html</link>
             <guid isPermaLink="false">4e1646d7-f1ef-4d8a-be7c-d8c59b9f19d8</guid>
             <pubDate>Wed, 03 Feb 2016 06:37:54 GMT</pubDate>
         </item>
