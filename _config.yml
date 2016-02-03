@@ -1,0 +1,28 @@
+name: Lisa.Digital
+favicon: null
+layout_spectrum: 0.8412896594963968
+typography_spectrum: 0.7195610874332488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7309779808856547
+  lightness: 0.2572917630895972
+  saturation: 0.4527988263871521
+  rhythmicContrast: 0.8907461240887642
+purpose: []
